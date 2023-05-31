@@ -1,2 +1,2 @@
-# Receitas M.JM
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcybercook.com.br%2Freceitas%2Fbolos%2Freceita-de-bolo-grande-de-chocolate-14325&psig=AOvVaw2c5QasJwUbj6_RjsI25FKN&ust=1685624906858000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOC4-qLQn_8CFQAAAAAdAAAAABAE"
+#RECEITAS MJE
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.estadao.com.br%2Fpaladar%2Freceita%2Fbolo-de-chocolate-com-morango%2F&psig=AOvVaw0va9-E6lw_-86rKFcgxWXq&ust=1685625269850000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCuxs_Rn_8CFQAAAAAdAAAAABAD"
