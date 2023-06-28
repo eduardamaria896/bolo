@@ -1,2 +1,16 @@
 #RECEITAS MJE
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.estadao.com.br%2Fpaladar%2Freceita%2Fbolo-de-chocolate-com-morango%2F&psig=AOvVaw0va9-E6lw_-86rKFcgxWXq&ust=1685625269850000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCuxs_Rn_8CFQAAAAAdAAAAABAD" align="center" reigth="50" width="60">
+class ReceitaBolo:
+    def __init__(self, nome, ingredientes, passos):
+        self.nome = nome
+        self.ingredientes = ingredientes
+        self.passos = passos
+    
+    def exibir_receita(self):
+        print("Receita de", self.nome)
+        print("Ingredientes:")
+        for ingrediente in self.ingredientes:
+            print("-", ingrediente)
+        print("Passos:")
+        for i, passo in enumerate(self.passos, 1):
+            print(i, ".", passo)
+        print("\n")
