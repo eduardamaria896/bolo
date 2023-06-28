@@ -1,4 +1,5 @@
 #RECEITAS MJE
+
         self.nome = nome
         self.ingredientes = ingredientes
         self.passos = passos
