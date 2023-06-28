@@ -1,6 +1,4 @@
 #RECEITAS MJE
-class ReceitaBolo:
-    def __init__(self, nome, ingredientes, passos):
         self.nome = nome
         self.ingredientes = ingredientes
         self.passos = passos
